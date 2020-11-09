@@ -1,5 +1,7 @@
 # EMPTY_CODE_SCALA
 
+Country ( id, code_country, name, continent,link, keyword )
+Country(Int, CODE , String, String ,?, String)
 
 
 sealed abstract class Country code(val value: Int)
