@@ -1,9 +1,8 @@
 # EMPTY_CODE_SCALA
 
-#Country ( id, code_country, name, continent,link, keyword )
-#Country(Int, CODE , String, String ,?, String)
-#Airport(id, ident, type,name, continent,iso_country, airport_link, keyword)
-#Airport(Int, String, String, String, String, Int, ?, String)
+#Country ( id:Int, Code_Country: Country_code, name:String, continent: String,link: String, keyword:String )
+#Airport(id:Int, ident: String, type: String,airport_name: String, airport_continent: String ,iso_country:Int, airport_link: String, keyword: String)
+
 
 
 
